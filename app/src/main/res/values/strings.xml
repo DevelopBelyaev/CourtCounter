@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="team_view_txt">Team A!</string>
+    <string name="score_tv_text">0</string>
+    <string name="add_three_txt">+3 points</string>
+    <string name="add_two_txt">+2 points</string>
+    <string name="team_b_txt">team b</string>
+    <string name="three_throw_text">free throw</string>
+    <string name="test">reset</string>
+    <string name="reset_button_text">reset</string>
+</resources>
