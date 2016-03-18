@@ -5,4 +5,6 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="default_padding">8dp</dimen>
     <dimen name="default_margin">4dp</dimen>
+    <dimen name="score_text_size">105sp</dimen>
+    <dimen name="score_view_height">200dp</dimen>
 </resources>
